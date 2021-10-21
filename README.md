@@ -1,4 +1,4 @@
-# Cell_Binary_Classification
+# Binary_cell_classification
 
 A ResNet model for cell classification, equipped with Grad-CAM and streamlit web app
 
